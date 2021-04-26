@@ -202,7 +202,7 @@
      */
     Runner.keycodes = {
         JUMP: { '38': 1, '32': 1 },  // Up, spacebar
-        DUCK: { '40': 1 },  // Down
+        DUCK: { '40': 1, '16': 1},  // Down, shift
         RESTART: { '13': 1 }  // Enter
     };
 
